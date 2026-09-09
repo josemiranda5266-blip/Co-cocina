@@ -1,0 +1,6 @@
+{
+  "name": "ConCocina",
+  "description": "Plataforma inteligente para descubrir, buscar y organizar videos públicos de cocina provenientes de múltiples fuentes de Internet.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
